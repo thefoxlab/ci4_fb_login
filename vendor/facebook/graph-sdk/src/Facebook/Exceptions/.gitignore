@@ -1,0 +1,9 @@
+/FacebookAuthenticationException.php
+/FacebookAuthorizationException.php
+/FacebookClientException.php
+/FacebookOtherException.php
+/FacebookResponseException.php
+/FacebookResumableUploadException.php
+/FacebookSDKException.php
+/FacebookServerException.php
+/FacebookThrottleException.php
